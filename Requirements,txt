@@ -1,0 +1,6 @@
+pip install easyocr
+pip install opencv-python
+pip install streamlit
+pip install streamlit-option-menu
+pip install pyngrok
+npm install localtunnel
